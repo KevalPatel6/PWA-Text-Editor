@@ -57,4 +57,5 @@ export const getDb = async () => {
   return result?.text;
 }
 
+
 initdb();
